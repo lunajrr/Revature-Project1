@@ -1,25 +1,23 @@
-PROJECT NAME
-Project Description
+JuanBank
+A website for a bank. 
 
 Here goes your awesome project description!
 Technologies Used
 
-    Tech 1 - version 1.0
-    Tech 2 - version 2.0
-    Tech 3 - version 3.0
+    Frontend- HTML/CSS, JSP
+    Server- Java servlets/Log4j/Junit testing
+    Database- postgres SQL
 
 Features
 
-List of features ready and TODOs for future development
-
-    Awesome feature 1
-    Awesome feature 2
-    Awesome feature 3
+    Able to create an account and log in
+    Employess can search users' accounts with username
+    Customers can deposit/withdraw/transfer money to and from accouts.
 
 To-do list:
 
-    Wow improvement to be done 1
-    Wow improvement to be done 2
+    Clean up the inerface
+    Allow the employees' to give reasons why for account rejections.
 
 Getting Started
 
@@ -34,7 +32,3 @@ Getting Started
 Usage
 
     Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-Contributors
-
-    Here list the people who have contributed to this project. (ignore this section, if its a solo project)
