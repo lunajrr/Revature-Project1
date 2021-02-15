@@ -1,7 +1,8 @@
 JuanBank
+
 A website for a bank. 
 
-Here goes your awesome project description!
+
 Technologies Used
 
     Frontend- HTML/CSS, JSP
